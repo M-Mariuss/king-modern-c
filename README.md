@@ -17,7 +17,6 @@ To compile: `gcc chapter_02/program_01.c -o output`
 ## Personal Projects
 
 - Project 1: Quadratic formula solver (polynomials of 2nd degree)
-- Project 2: [Coming soon]
 
 ---
 
