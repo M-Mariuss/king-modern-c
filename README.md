@@ -9,7 +9,7 @@ To compile: `gcc chapter_02/program_01.c -o output`
 - Exercise 1: Printing ASCII art
 - Exercise 2: Computes the volume of a sphere
 - Exercise 3: Adds tax to a value
-- Exercise 4: Evaluates a polynomial
+- Exercise 4: Value of a polynomial fuction 
 - Exercise 5: Horner's Rule - optimized polynomial evaluation
 - Exercise 6: Splits a dollar amount into bills ($20, $10, $5, $1)
 - Exercise 7: Calculates months needed to pay off a loan with interest and fixed monthly payment
