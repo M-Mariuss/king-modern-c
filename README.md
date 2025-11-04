@@ -18,8 +18,8 @@ To compile: `gcc chapter_02/program_01.c -o output`
 
 - Project 1: Quadratic formula solver (polynomials of 2nd degree)
 
----
-
 ## Chapter 3
+
+Some stupid LLM told me to delete all my branches and now I've lost the exercises for this 
 
 [Add exercises here]
