@@ -22,4 +22,6 @@ To compile: `gcc chapter_02/program_01.c -o output`
 
 Some stupid LLM told me to delete all my branches and now I've lost the exercises for this 
 
+## Chapter 4
+
 [Add exercises here]
