@@ -22,4 +22,7 @@ To compile: `gcc chapter_02/program_01.c -o output`
 
 ## Chapter 3
 
-[Add exercises here]
+- Exercise 1 : Date formater 
+- Exercise 2 : Product information organizer
+- Exercise 3 : Isbn formatter
+- Exercise 4 : Telephone number formatter
